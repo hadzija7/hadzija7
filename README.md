@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I am Alex! 👋
+
+- 🔭 I’m currently working on web3 projects
+- 🌱 I’m currently learning about Zero-Knowledge proofs
 
 <!--
 **hadzija7/hadzija7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
